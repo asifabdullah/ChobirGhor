@@ -1,0 +1,62 @@
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\MockData.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\FluentValidation.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\da\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\de\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\es\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fi\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\fr\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\it\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ko\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\mk\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\nl\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pl\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\pt\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\ru\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\sv\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\bin\Debug\tr\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial.resources
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\MockData.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial.resources
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll.config
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Data.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\MockData.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\HomeCinema.Entities.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csprojResolveAssemblyReference.cache
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.Migrations.initial.resources
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.csproj.GenerateResource.Cache
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Data\obj\Debug\HomeCinema.Data.pdb

@@ -1,0 +1,36 @@
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\EntityFramework.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\MockData.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\bin\Debug\EntityFramework.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\EntityFramework.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\MockData.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\EntityFramework.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Services.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\EntityFramework.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\MockData.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Data.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\HomeCinema.Entities.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\bin\Debug\EntityFramework.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.csprojResolveAssemblyReference.cache
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Services\obj\Debug\HomeCinema.Services.pdb

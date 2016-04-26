@@ -1,0 +1,10 @@
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntitiyLeran.exe.config
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntitiyLeran.exe
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntitiyLeran.pdb
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\obj\Debug\EntitiyLeran.csprojResolveAssemblyReference.cache
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\obj\Debug\EntitiyLeran.exe
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\obj\Debug\EntitiyLeran.pdb
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntityFramework.dll
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntityFramework.SqlServer.dll
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntityFramework.xml
+D:\Git\WorkingDirectory\.Net Project\EntitiyLeran\EntitiyLeran\bin\Debug\EntityFramework.SqlServer.xml

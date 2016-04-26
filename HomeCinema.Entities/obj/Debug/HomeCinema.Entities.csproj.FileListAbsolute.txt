@@ -1,0 +1,15 @@
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.csprojResolveAssemblyReference.cache
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll.config
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll.config
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\bin\Debug\HomeCinema.Entities.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Entities\obj\Debug\HomeCinema.Entities.pdb
