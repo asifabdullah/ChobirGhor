@@ -1,0 +1,342 @@
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\AutoMapper.Net4.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Web.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Web.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Antlr3.Runtime.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Autofac.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\AutoMapper.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\EntityFramework.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\FluentValidation.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Data.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Entities.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Services.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Microsoft.Web.Infrastructure.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Newtonsoft.Json.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Helpers.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Http.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Mvc.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Optimization.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Razor.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\WebGrease.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\MockData.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Data.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\HomeCinema.Services.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Autofac.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\AutoMapper.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\AutoMapper.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\EntityFramework.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\FluentValidation.pdb
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\FluentValidation.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Optimization.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Razor.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Helpers.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Mvc.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\Newtonsoft.Json.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Http.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+G:\Works\spa-webapi-angularjs-master\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Microsoft.Web.Infrastructure.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\WebGrease.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\MockData.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.pdb
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+D:\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\WebGrease.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\MockData.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.pdb
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+C:\LoaclUse\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\WebGrease.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\MockData.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.pdb
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+C:\MyWork\Git\WorkingDirectory\.Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll.config
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Web.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\WebGrease.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\MockData.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Data.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Entities.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\HomeCinema.Services.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Antlr3.Runtime.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Autofac.Integration.WebApi.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\AutoMapper.Net4.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\EntityFramework.SqlServer.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.pdb
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\FluentValidation.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Optimization.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Razor.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Deployment.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Webpages.Razor.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Helpers.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Mvc.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\Newtonsoft.Json.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Net.Http.Formatting.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\System.Web.Http.WebHost.xml
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\da\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\de\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\es\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\fi\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\fr\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\it\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\ko\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\mk\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\nl\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\pl\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\pt\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\ru\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\sv\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\bin\tr\FluentValidation.resources.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.csprojResolveAssemblyReference.cache
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.dll
+C:\MyWork\Git\WorkingDirectory\Dot Net Project\Home Cinema\HomeCinema.Web\obj\Debug\HomeCinema.Web.pdb
